@@ -1,4 +1,4 @@
-# DS-Demographic-EDA
+# DS Demographic EDA
 * Demographic Data Analyzer from (https://www.freecodecamp.org/)
 
 ## Codes and Resources Used
